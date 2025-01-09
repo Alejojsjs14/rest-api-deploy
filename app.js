@@ -13,7 +13,7 @@ app.use(cors({
       'http://localhost:8081'
     ]
 
-    if (!origin || ACEPTED_ORIGINS.includes(origin)) {
+    if (ACEPTED_ORIGINS.includes(origin)) {
       callback(null, true)
     }
 
