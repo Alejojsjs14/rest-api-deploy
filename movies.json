@@ -1,0 +1,51 @@
+[{
+    "id": "1",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "duration": 142,
+    "poster": "https://i.ebayimg.com/images/g/4goAAOSwMyBe7hnQ/s-l1200.webp",
+    "genre": ["Drama"],
+    "rate": 9.3  
+},
+{
+    "id": "2",
+    "title": "La Monja",
+    "year": 2018,
+    "director": "Carlos Perea",
+    "duration": 125,
+    "poster": "https://i.ebayimg.com/images/g/4goAAOSwMyBe7hnQ/s-l1200.webp",
+    "genre": ["Terror"],
+    "rate": 8.2
+},
+{
+    "id": "3",
+    "title": "Son Como Niños",
+    "year": 2021,
+    "director": "Adam Samdler",
+    "duration": 156,
+    "poster": "https://i.ebayimg.com/images/g/4goAAOSwMyBe7hnQ/s-l1200.webp",
+    "genre": ["Comedy", "Accion"],
+    "rate": 9.7  
+},
+{
+    "id": "4",
+    "title": "Fast and Furious",
+    "year": 2011,
+    "director": "Vin Dissel",
+    "duration": 202,
+    "poster": "https://i.ebayimg.com/images/g/4goAAOSwMyBe7hnQ/s-l1200.webp",
+    "genre": ["Accion", "Comedy"],
+    "rate": 4.1  
+},
+{
+    "id": "5",
+    "title": "El pajaro loco",
+    "year": 2023,
+    "director": "El pajaro carpintero",
+    "duration": 110,
+    "poster": "https://i.ebayimg.com/images/g/4goAAOSwMyBe7hnQ/s-l1200.webp",
+    "genre": ["Comedy"],
+    "rate": 7.8 
+}
+]
